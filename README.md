@@ -1,11 +1,12 @@
-Java To-Do List Application
-📌 Overview
+# Java To-Do List Application
+
+# 📌 Overview
 
 The Java To-Do List Application is a simple task management program built using Java. It allows users to add, view, update, and delete tasks, helping them organize daily activities effectively.
 
 This project was created to strengthen core Java skills such as object-oriented programming, data structures, and basic application logic.
 
-✨ Features
+# ✨ Features
 
 Add new tasks
 
@@ -19,7 +20,7 @@ Simple and easy-to-use interface
 
 Persistent task management during runtime
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Language: Java
 
@@ -35,7 +36,7 @@ Control flow
 
 IDE: IntelliJ IDEA 
 
-🧠 What This Project Demonstrates
+# 🧠 What This Project Demonstrates
 
 Understanding of Java OOP principles
 
@@ -47,15 +48,15 @@ Handling user input and program flow
 
 Writing clean and readable Java code
 
-⚙️ How to Run the Project
+# ⚙️ How to Run the Project
 1️⃣ Clone the repository
 git clone https://github.com/yourusername/java-todo-list.git
 cd java-todo-list
 
-2️⃣ Compile the program
+# 2️⃣ Compile the program
 javac Main.java
 
-3️⃣ Run the application
+# 3️⃣ Run the application
 java Main
 
 
@@ -79,12 +80,12 @@ Search and filter tasks
 
 User accounts
 
-👤 Author
+# 👤 Author
 
 Israel Abolarin
 Aspiring Software Developer
 GitHub: https://github.com/Israel-code0
 
-📄 License
+# 📄 License
 
 This project is for learning and portfolio purposes.
